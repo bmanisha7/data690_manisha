@@ -1,4 +1,4 @@
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/assignment_01/image0.jpg" height= "300"/>
 
 # Profile
 1. Name: Mansiha Basavanna
