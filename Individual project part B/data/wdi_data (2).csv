@@ -1,0 +1,251 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,8.0986523951,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2011,8.680602707,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2012,5.3912045952,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2013,5.3058178041,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2014,4.7573278548,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,3.2786568695,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2016,4.0736679154,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2017,5.0561649518,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2018,5.4804154374,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2019,5.3558556053,NY.GDP.TOTL.RT.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+10,2010,6.2990793061,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2011,7.6770506985,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2012,4.1532052805,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2013,3.0253450834,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2014,2.3143879003,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2015,1.1827638837,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2016,1.0472725417,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2017,1.3324321868,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2018,1.4677648788,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2019,1.2550546774,NY.GDP.TOTL.RT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2010,4.4430142794,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+21,2011,5.3068151466,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+22,2012,4.0096698839,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+23,2013,3.6276186711,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+24,2014,2.7937754589,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+25,2015,1.7641726957000001,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+26,2016,1.7296452831,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+27,2017,1.9626664273,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+28,2018,2.2332172200000002,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+29,2019,2.0064134178,NY.GDP.TOTL.RT.ZS,IND,India,South Asia,Lower middle income,IBRD
+30,2010,0.0321231723,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+31,2011,0.033507276600000004,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+32,2012,0.0459044191,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+33,2013,0.0276489104,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+34,2014,0.0243293807,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+35,2015,0.0184253544,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+36,2016,0.018799024600000002,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+37,2017,0.022206689300000002,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+38,2018,0.0219952916,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+39,2019,0.09928768860000001,NY.GDP.TOTL.RT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+40,2010,0.9223085202,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+41,2011,1.2175043091,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+42,2012,0.8124090834000001,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+43,2013,0.7594132012,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+44,2014,0.6330235215000001,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+45,2015,0.23469833110000002,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+46,2016,0.302547171,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+47,2017,0.44048409460000004,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+48,2018,0.6717721587000001,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+49,2019,0.5747335069,NY.GDP.TOTL.RT.ZS,USA,United States,North America,High income,Not classified
+50,2010,39301.3411198761,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+51,2011,41965.3584189919,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+52,2012,42826.789579996,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+53,2013,45902.047948361,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+54,2014,46880.2206571585,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+55,2015,46288.3344786414,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+56,2016,47339.969213264,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+57,2017,48482.6474614392,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+58,2018,50252.8404567524,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+59,2019,52203.1322876387,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+60,2010,9253.7651877121,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+61,2011,10299.8706939935,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+62,2012,11197.5969363537,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+63,2013,11923.7526189386,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+64,2014,12549.7718312977,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+65,2015,12978.7689105655,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+66,2016,13572.6199886994,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+67,2017,14344.4212394424,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+68,2018,15608.9670692513,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+69,2019,16772.8431692214,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+70,2010,4236.7443479487,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+71,2011,4493.6694656771,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+72,2012,4861.1561523634,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+73,2013,5057.2334137479,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+74,2014,5233.8823425151,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+75,2015,5464.859178008,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+76,2016,5839.8648167547,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+77,2017,6182.9221085747,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+78,2018,6675.3612941094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+79,2019,6997.8639882409,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+80,2010,31748.2817947701,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+81,2011,32546.7536531234,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+82,2012,33557.1287196434,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+83,2013,34244.3121393117,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+84,2014,35324.4976704773,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+85,2015,37902.4004037578,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+86,2016,39575.4542830031,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+87,2017,40957.4180587145,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+88,2018,42487.0419465669,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+89,2019,42727.9507570391,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+90,2010,48466.6576026922,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+91,2011,49882.5581321495,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+92,2012,51602.9310457907,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+93,2013,53106.5367672165,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+94,2014,55049.9883272312,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+95,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+96,2016,58021.4004997125,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+97,2017,60109.6557260477,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+98,2018,63064.4184096728,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+99,2019,65279.529026095,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+100,2010,22031750.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+101,2011,22340024.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+102,2012,22733465.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+103,2013,23128129.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+104,2014,23475686.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+105,2015,23815995.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+106,2016,24190907.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+107,2017,24601860.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+108,2018,24982688.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+109,2019,25365745.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+110,2010,1337705000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+111,2011,1344130000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+112,2012,1350695000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+113,2013,1357380000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+114,2014,1364270000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+115,2015,1371220000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+116,2016,1378665000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+117,2017,1386395000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+118,2018,1392730000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+119,2019,1397715000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+120,2010,1234281163.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+121,2011,1250287939.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+122,2012,1265780243.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+123,2013,1280842119.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+124,2014,1295600768.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+125,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+126,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+127,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+128,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+129,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+130,2010,49554112.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+131,2011,49936638.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+132,2012,50199853.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+133,2013,50428893.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+134,2014,50746659.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+135,2015,51014947.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+136,2016,51217803.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+137,2017,51361911.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+138,2018,51606633.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+139,2019,51709098.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+140,2010,309327143.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+141,2011,311583481.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+142,2012,313877662.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+143,2013,316059947.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+144,2014,318386329.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+145,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+146,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+147,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+148,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+149,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+150,2010,11.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+151,2011,11.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+152,2012,11.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+153,2013,11.5,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+154,2014,12.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+155,2015,13.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+156,2016,12.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+157,2017,13.1,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+158,2018,12.4,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+159,2019,12.5,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+160,2010,10.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+161,2011,9.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+162,2012,9.0,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+163,2013,8.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+164,2014,8.4,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+165,2015,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+166,2016,8.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+167,2017,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+168,2018,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+169,2019,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+170,2010,14.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+171,2011,14.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+172,2012,14.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+173,2013,13.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+174,2014,12.8,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+175,2015,12.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+176,2016,12.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+177,2017,12.0,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+178,2018,12.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+179,2019,12.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+180,2010,34.0,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+181,2011,34.5,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+182,2012,30.2,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+183,2013,30.6,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+184,2014,29.0,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+185,2015,28.0,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+186,2016,27.2,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+187,2017,25.8,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+188,2018,28.6,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+189,2019,28.6,SH.STA.SUIC.P5,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+190,2010,13.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+191,2011,13.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+192,2012,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+193,2013,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+194,2014,14.0,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+195,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+196,2016,15.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+197,2017,15.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+198,2018,15.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+199,2019,16.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+200,2010,81.6951219512,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+201,2011,81.8951219512,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+202,2012,82.0463414634,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+203,2013,82.1487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+204,2014,82.3,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+205,2015,82.4,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+206,2016,82.4487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+207,2017,82.5,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+208,2018,82.7487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+209,2019,82.9,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+210,2010,74.409,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+211,2011,74.708,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+212,2012,75.013,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+213,2013,75.321,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+214,2014,75.629,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+215,2015,75.928,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+216,2016,76.21,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+217,2017,76.47,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+218,2018,76.704,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+219,2019,76.912,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+220,2010,66.693,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+221,2011,67.13,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+222,2012,67.545,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+223,2013,67.931,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+224,2014,68.286,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+225,2015,68.607,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+226,2016,68.897,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+227,2017,69.165,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+228,2018,69.416,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+229,2019,69.656,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+230,2010,80.1170731707,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+231,2011,80.5682926829,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+232,2012,80.8195121951,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+233,2013,81.2707317073,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+234,2014,81.7219512195,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+235,2015,82.0243902439,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+236,2016,82.2756097561,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+237,2017,82.6268292683,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+238,2018,82.6268292683,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+239,2019,83.2268292683,SP.DYN.LE00.IN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+240,2010,78.5414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+241,2011,78.6414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+242,2012,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+243,2013,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+244,2014,78.8414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+245,2015,78.6902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+246,2016,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+247,2017,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+248,2018,78.6390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+249,2019,78.787804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
