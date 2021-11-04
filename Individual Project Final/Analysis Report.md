@@ -39,7 +39,7 @@ Natural resources or commodities are the raw inputs used to manufacture and prod
 ### The below graph gives us the idea how the countires rent changes in natural resources yearly. The graph represents only the selected countries for comparision.
 <img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/line%20graph.png" height= "500"/>
 
-### The below two graphs represents how the few countries like Libya have fallen behind other countries for the usage of natural resources. The natural resources rent of top countries in the year 2010.
+### The below graph represents how the few countries like Libya have fallen behind other countries for the usage of natural resources. The natural resources rent of top countries in the year 2010.
 <img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/top%2010%20countries%202010.png" height= "500"/>
 
 ### The graph explains the natural resources rent by the top countries in the year 2019.
