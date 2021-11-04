@@ -1,11 +1,11 @@
 # Analysis report
 ## Total natural resources rents
 - Total natural resources rents are the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents.
-- 
+ 
 ## Indicators:
 - Total natural resources
 - GDP per capita
-- 
+ 
 ## Countries compared:
 - United states
 - Korea Republic
@@ -24,20 +24,20 @@ Natural resources or commodities are the raw inputs used to manufacture and prod
 - I wanted to know which country has the highest rent of resources by comparing the countries using gdp.
 
 ## Total natural resources
-The graph compares the countires with respect to their GDP.
-<img src="" height= "300"/>
+### The graph compares the countires with respect to their GDP.
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/total%20with%20gdp.png" height= "300"/>
 
 ### The graph explains the total natural resources for year 2019.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/total%20with%20natural.png" height= "300"/>
 ### The below graph is about the production of natural resources with the gdp of 2010.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/2010%20gdp.png" height= "300"/>
 ### This graph is also about the natural resources rent but with the gdp of year 2015.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/2015%20gdp.png" height= "300"/>
 ### The below graph gives us the idea how the countires rent changes in natural resources yearly. The graph represents only the selected countries for comparision.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/line%20graph.png" height= "300"/>
 ### The below two graphs represents how the few countries like Libya have fallen behind other countries for the usage of natural resources. The natural resources rent of top countries in the year 2010.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/top%2010%20countries%202010.png" height= "300"/>
 ### The graph explains the natural resources rent by the top countries in the year 2019.
-
+<img src="https://github.com/bmanisha7/data690_manisha/blob/main/Individual%20Project%20Final/Charts/top%2010%20countires%202019.png" height= "300"/>
 ## Conclusion
 From the above graphs we can observe that natural resources rent is decreasing and the usage is increasing. Few of the countries which were ahead in the previous years have fallen below the other countries.
